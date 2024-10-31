@@ -16,24 +16,42 @@ Soy un desarrollador Full Stack apasionado por la tecnología y la programación
 
 Puedes ver algunos de mis proyectos y contribuciones aquí en GitHub. ¡Siempre abierto a colaborar!
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Lenguajes y tecnología 🛠️
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python Badge" width="95">
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white" alt="SQL Badge" width="75">
-<img src="https://img.shields.io/badge/Solid-black?logo=solid&logoColor=white" alt="Solid Badge" width="80">
-<img src="https://img.shields.io/badge/Streamlit-yellow?logo=streamlit&logoColor=white" alt="Streamlit Badge" width="120">
-<img src="https://img.shields.io/badge/HTML-000000?logo=html5&logoColor=white" alt="HTML Badge" width="95">
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS Badge" width="90">
-<img src="https://img.shields.io/badge/TypeScript-purple?logo=typescript&logoColor=white" alt="TypeScript Badge" width="130">
-<img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white" alt="Linux Badge" width="88">
-<img src="https://img.shields.io/badge/Ubuntu-red?logo=ubuntu&logoColor=white" alt="Ubuntu Badge" width="105">
-<img src="https://img.shields.io/badge/Windows-0078D6?logo=Microsoft&logoColor=white" alt="Windows Badge" width="98">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Lenguajes, tecnología y herramientas 🛠️
+,
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VisualStudioCode Badge" width="75">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git Badge" width="75">
+  <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" alt="Github Badge" width="75">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python Badge" width="75">
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white" alt="SQL Badge" width="75">
+  <img src="https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=white" alt="Solid Badge" width="80">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit Badge" width="120">
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML Badge" width="95">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS Badge" width="90">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript Badge" width="130">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux Badge" width="88">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu Badge" width="105">
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows Badge" width="98">
+</div>
 
 
 
 
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">Otros datos de interes
+
+Estoy en proceso de aprendisaje de frameworks modernos y para completar mis conocimientos en backend y frontend añadiré a mis habilidades:
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+    <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white" alt="Django Badge" width="120">
+    <img src="https://img.shields.io/badge/Reactjs-61DAFB?logo=react&logoColor=white" alt="Reactjs Badge" width="120">
+    <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white" alt="Astro Badge" width="120">
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular Badge" width="120">
+    <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java Badge" width="120">
+    <img src="https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=white" alt="Node Badge" width="120">
+    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust Badge" width="120">
+</div>
+
 
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">Para mas información, por favor contactarme ☎️ 
