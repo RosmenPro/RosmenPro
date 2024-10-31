@@ -16,6 +16,12 @@ Soy un desarrollador Full Stack apasionado por la tecnología y la programación
 
 Puedes ver algunos de mis proyectos y contribuciones aquí en GitHub. ¡Siempre abierto a colaborar!
 
+<p align="center">
+   <a href="https://github.com/RosmenPro?tab=repositories" target="_blank">
+    <img align="center" alt="Rosmén Valencia | Repositorio GitHub" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+  </a> &nbsp;&nbsp;
+</p>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Lenguajes, tecnología y herramientas 🛠️
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VisualStudioCode Badge" width="160">
@@ -67,7 +73,9 @@ Estoy en proceso de aprendisaje de frameworks modernos y para completar mis cono
     <img align="center" alt="Rosmén Valencia | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
 
- 
+ <a href="https://github.com/RosmenPro?tab=repositories" target="_blank">
+    <img align="center" alt="Rosmén Valencia | Repositorio GitHub" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+</a> &nbsp;&nbsp;
 
 
 <div align="center">
