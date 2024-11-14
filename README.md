@@ -134,13 +134,13 @@ You can view some of my projects and contributions here on GitHub. I am always o
 I am in the process of learning modern frameworks and to complete my knowledge in backend and frontend, I will be adding to my skills:
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-    <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white" alt="Django Badge" width="120">
-    <img src="https://img.shields.io/badge/Reactjs-61DAFB?logo=react&logoColor=white" alt="Reactjs Badge" width="120">
-    <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white" alt="Astro Badge" width="100">
-    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular Badge" width="120">
-    <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java Badge" width="90">
-    <img src="https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=white" alt="Node Badge" width="95">
-    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust Badge" width="95">
+    <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white" alt="Django Badge" width="110">
+    <img src="https://img.shields.io/badge/Reactjs-61DAFB?logo=react&logoColor=white" alt="Reactjs Badge" width="110">
+    <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white" alt="Astro Badge" width="90">
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular Badge" width="110">
+    <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java Badge" width="82">
+    <img src="https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=white" alt="Node Badge" width="87">
+    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust Badge" width="84">
 </div>
 
 ---
